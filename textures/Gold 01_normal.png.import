@@ -1,0 +1,37 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path.s3tc="res://.import/Gold 01_normal.png-36813a2d621fac5ea9b504ef2eaa00ad.s3tc.stex"
+path.etc2="res://.import/Gold 01_normal.png-36813a2d621fac5ea9b504ef2eaa00ad.etc2.stex"
+path.etc="res://.import/Gold 01_normal.png-36813a2d621fac5ea9b504ef2eaa00ad.etc.stex"
+metadata={
+"imported_formats": [ "s3tc", "etc2", "etc" ],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://textures/Gold 01_normal.png"
+dest_files=[ "res://.import/Gold 01_normal.png-36813a2d621fac5ea9b504ef2eaa00ad.s3tc.stex", "res://.import/Gold 01_normal.png-36813a2d621fac5ea9b504ef2eaa00ad.etc2.stex", "res://.import/Gold 01_normal.png-36813a2d621fac5ea9b504ef2eaa00ad.etc.stex" ]
+
+[params]
+
+compress/mode=2
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=1
+flags/repeat=true
+flags/filter=true
+flags/mipmaps=true
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0
